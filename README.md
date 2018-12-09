@@ -4,6 +4,6 @@ Actually I am practacing my git skills.
 
 ## Purpose
 
-None.
+None
 
-Thank you.
+Thank you
