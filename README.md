@@ -1,7 +1,9 @@
-# Starter Web Repo
+# Testing Repo
 
-This repository is for showing how Git and GitHub work
+Actually I am practacing my git skills.
 
 ## Purpose
 
-Sample website with plenty of files for demos
+None.
+
+Thank you.
